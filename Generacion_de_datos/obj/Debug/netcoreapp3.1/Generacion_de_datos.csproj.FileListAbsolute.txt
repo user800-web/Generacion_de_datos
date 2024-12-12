@@ -1,0 +1,14 @@
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\bin\Debug\netcoreapp3.1\Generacion_de_datos.exe
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\bin\Debug\netcoreapp3.1\Generacion_de_datos.deps.json
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\bin\Debug\netcoreapp3.1\Generacion_de_datos.runtimeconfig.json
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\bin\Debug\netcoreapp3.1\Generacion_de_datos.runtimeconfig.dev.json
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\bin\Debug\netcoreapp3.1\Generacion_de_datos.dll
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\bin\Debug\netcoreapp3.1\Generacion_de_datos.pdb
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.csproj.AssemblyReference.cache
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.AssemblyInfoInputs.cache
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.AssemblyInfo.cs
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.dll
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.pdb
+C:\Users\almea\OneDrive - Universidad Técnica Estatal de Quevedo\Escritorio\Algoritmos PSO\Generacion_de_datos\Generacion_de_datos\obj\Debug\netcoreapp3.1\Generacion_de_datos.genruntimeconfig.cache
