@@ -15,11 +15,11 @@ namespace Generacion_de_datos
 
                 //OPCIÓN 1
                 // Determinar el número de servidores (5% de los nodos)
-                int numHubs = (int)Math.Ceiling(numNodos * 0.05);
+                //int numHubs = (int)Math.Ceiling(numNodos * 0.05);
 
                 //OPCIÓN 2
-                /*Console.Write("Ingrese el número de servidores: ");
-                int numHubs = int.Parse(Console.ReadLine());*/
+                Console.Write("Ingrese el número de servidores: ");
+                int numHubs = int.Parse(Console.ReadLine());
 
                 // Solicitar capacidad
                 Console.Write("Ingrese la capacidad: ");
